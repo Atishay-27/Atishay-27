@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning c/c++,Full stack web devopment 
 - 💞️ I’m looking to collaborate on....
-- 📫 How to reach me ... @atishaypandey27@gmail.com
+- 📫 How to reach me ... @atishaypandey21@gmail.com
 
 <!---
 Atishay-27/Atishay-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
