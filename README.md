@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atishay-27
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c/c++,Full stack web devopment 
+- 🌱 I’m currently learning c/c++,Python
 - 💞️ I’m looking to collaborate on....
 - 📫 How to reach me ... @atishaypandey21@gmail.com
 
